@@ -25,3 +25,6 @@
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongSinister&layout=compact&theme=dark&exclude_repo=EmbedLab-FinalProject&hide=Jupyter%20Notebook)
+
+## LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/JongSinister?theme=dark)
