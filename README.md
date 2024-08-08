@@ -11,8 +11,8 @@
 ![scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
 
 ### Libraries and Frameworks
-![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![ejs](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black)
+![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
