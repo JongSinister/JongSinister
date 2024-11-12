@@ -1,9 +1,9 @@
-
+<!--
 <p>
   <div>Computer Engineering Student @Chulalongkorn University.</div>
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongSinister&layout=compact&langs_count=8&theme=highcontrast&exclude_repo=EmbedLab-FinalProject&hide=Jupyter%20Notebook) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongSinister&layout=compact&langs_count=8&theme=highcontrast&exclude_repo=EmbedLab-FinalProject&hide=Jupyter%20Notebook) -->
 <!--
 **JongSinister/JongSinister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
